@@ -15,10 +15,9 @@ Um sistema de **gestão financeira pessoal** feito com **Next.js + MongoDB**, qu
 
 1. Instale as dependências:
 
-   ```bash
-   pnpm install
-
-   ```
+```bash
+pnpm install
+```
 
 2. Configure o banco (MongoDB em Docker, por exemplo):
 
