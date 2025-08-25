@@ -2,6 +2,8 @@
 
 Um sistema de **gestão financeira pessoal** feito com **Next.js + MongoDB**, que permite:
 
+![alt text](image.png)
+
 - Importar arquivos CSV de extratos bancários (ex.: Nubank);
 - Categorização automática das transações (Alimentação, Mercado, Transporte, etc);
 - Uso de **IA (Groq)** como fallback para classificar transações;
